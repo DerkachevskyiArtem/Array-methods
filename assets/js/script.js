@@ -46,7 +46,7 @@ console.log(mixedArray);
 // Task7
 const sliceArray = [1, 2, 3, 4, 5];
 
-const slicedArray = sliceArray.slice(3, 5);
+const slicedArray = sliceArray.slice(-2);
 console.log(slicedArray);
 
 // Task8
